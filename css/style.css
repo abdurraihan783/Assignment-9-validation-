@@ -1,0 +1,17 @@
+.container{
+	width: 90%;
+	margin: 0 auto;
+	font-family: sans-serif;
+	background-color: darkgoldenrod;
+	color: black;
+}
+h1{
+	font-size: 40px;
+	font-weight: 700;
+	margin-bottom: 10px;
+}
+.btn-primary{
+	background-color: darkgoldenrod;
+	color: black;
+	border-style: none;
+}	
